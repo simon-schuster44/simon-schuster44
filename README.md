@@ -2,7 +2,10 @@
 #### An interesting description of myself
 
 My name is Simon, I live in the beautiful south of 🇩🇪Germany🇩🇪.<br>
-Right now I'm on my way becoming a 🖥Web Developer🖥 via **NeueFische**,<br>
+Right now I'm on my way becoming a 🖥Web Developer🖥 via <br>
+<br>
+**NeueFische** <br>
+![](https://lh4.googleusercontent.com/-d9ZHn_yQhkk/AAAAAAAAAAI/AAAAAAAAAAA/rHKUrekBSrw/s88-p-k-no-ns-nd/photo.jpg)<br><br>
 who offer great bootcamps and give you great opportunities
 ###### (if your life didn't turn out so well...)
 
